@@ -3,8 +3,35 @@
   padding: 0;
 }
 
+body { 
+  background-color: rgb(87, 149, 149);
+    font-family: "Pangolin", cursive;
+    font-weight: 400;
+    font-style: normal;
 
+  }
+  
 
+h1 { 
+  text-align: center; 
+  color: white;
 
+}
 
+h2 { 
+  text-align: center; 
+  color: white;
+}
+
+p { 
+  text-align: center;
+  
+    font-family: "Poiret One", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  
+    color: cornsilk;
+  font-size: 130%;
+  
+}
 
