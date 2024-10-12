@@ -10,7 +10,7 @@ By: Johnathan Martinez Pena
 
 ## Technical Overview:
 
-- Incorporation of festive themes throughout the website to bring a sense of warmth and "Christmas", in terms of color, and effects such as glow given to the text. My choice of Font style for the text captures the sense of "warmth", and a playful vibe.
+- Incorporation of festive themes throughout the website to bring the sense of warmth in Christmas, demonstrated through color, and glowing effects given to the text. My choice of Font style for the text captures the sense of "warmth", and a playful vibe.
 - Use of transformation skills such as translation, rotation, scaling, and skewing in several pages.
 
 The coding languages I'm utilizing include: 
