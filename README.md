@@ -6,7 +6,7 @@ By: Johnathan Martinez Pena
 
 ## Project Overview:
 
-
+For this project, I chose this song because it centers around the idea of Christmas and its connection to the community. To me, the community is more than just a group of people, it's the collective joy and experiences that bring us together as a whole. I selected this particular Christmas song because it beautifully captures the essence of community that I feel during the holiday season. To me, "Christmas" isn't just a holiday, but a time when everyone's family, friends, and strangers come together. The Christmas season demonstrates my definition of what community means, as it is a time when individuals from different backgrounds engage in the same traditions while creating a shared experience. The song's lyrics, which talk about holiday traditions like decorating and the joy of children receiving gifts, also resonate strongly with my concept of community. This song reminds me of the shared meals, the gatherings, and the laughter during the Christmas season, which also bring a sense of unity and warmth. By listening to this song, it brings back fond memories of spending time with my family during the holidays.
 
 ## Technical Overview:
 
