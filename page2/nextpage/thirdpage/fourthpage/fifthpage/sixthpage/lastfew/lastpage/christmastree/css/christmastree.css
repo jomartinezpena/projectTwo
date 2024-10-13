@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration:none;
+}
+
+html { 
+  
+  background-image:linear-gradient(rgb(197, 164, 132), cornsilk);
+  font-size: 16px;
+  font-family: "Pangolin", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+body { 
+  min-height: 100vh;
+  width: 100%;
+  padding-top:3%;
+  }
+
+
+p { 
+  text-align: center;
+  
+    font-family: "Poiret One", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  
+    
+  font-size: 100%;
+  
+}
+
+.star {
+  color: gold;
+  text-shadow: 5px 5px 10px goldenrod;
+  padding-bottom: 3%;
+}
+
+.tree {
+  color:darkslategray;
+  text-shadow: 5px 5px 10px white;
+  padding-bottom: 3%;
+}
+
+
+
+
