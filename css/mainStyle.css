@@ -2,10 +2,12 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  text-decoration:none;
 }
 
 html { 
-  background-color: rgb(87, 149, 149);
+  
+  background-image:linear-gradient(#a9cab2,#c7ecdd);
   font-size: 16px;
   font-family: "Pangolin", cursive;
     font-weight: 400;
@@ -20,17 +22,6 @@ body {
   }
 
 
-h1 { 
-  text-align: center; 
-  color: white;
-
-}
-
-h2 { 
-  text-align: center; 
-  color: white;
-}
-
 p { 
   text-align: center;
   
@@ -39,7 +30,25 @@ p {
     font-style: normal;
   
     color: cornsilk;
-  font-size: 130%;
+  font-size: 400%;
   
+  text-shadow:3px 3px #fda2a2;
+
+  padding-top: 20%;
 }
+
+a {
+  color: darkred;
+  text-shadow:5px 5px antiquewhite;
+}
+
+#christmas {
+  transition-duration: 10s;
+}
+
+#christmas:hover {
+  transform: scale(25,25) translate(100px,-100px);
+}
+
+
 
