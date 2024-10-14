@@ -59,5 +59,18 @@ a {
 
 }
 
+.first, .second, .third { 
+  display:inline-block;
+  transition: transform 0.3 ease;
+}
 
+.first:hover {
+  transform: translateY(-10px);
+}
+.second:hover {
+  transform: translateY(10px);
+}
+.third:hover {
+  transform: translateY(-5px);
+}
 
