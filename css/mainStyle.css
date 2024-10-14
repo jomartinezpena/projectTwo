@@ -37,18 +37,33 @@ p {
   padding-top: 20%;
 }
 
+
+
+
+p:hover { 
+  transform-origin:center;
+  
+}
+
+
+
 a {
   color: darkred;
   text-shadow:5px 5px antiquewhite;
 }
 
-#christmas {
-  transition-duration: 10s;
+ 
+.first, .second, .third { 
+  display:inline-block;
+  transition: transform 0.3 ease;
 }
 
-#christmas:hover {
-  transform: scale(25,25) translate(100px,-100px);
+.first:hover {
+  transform: translateY(-10px);
 }
-
-
-
+.second:hover {
+  transform: translateY(10px);
+}
+.third:hover {
+  transform: translateY(-5px);
+}
