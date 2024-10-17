@@ -31,13 +31,11 @@ body {
 
   .snow,.snow:after,.snow:before {
     content: "";
-    /*
-    position: fixed;
+    position: absolute;
     top:-650px;
     left:0;
     right:0;
     bottom:0;
-    */
     background-image: 
     radial-gradient(4px 4px at 100px 50px, #fff, transparent),
     radial-gradient(6px 6px at 200px 150px, #fff, transparent),
@@ -80,7 +78,7 @@ body {
 
 
 p { 
-  position: relative;
+  
   text-align: center;
   
     font-family: "Poiret One", sans-serif;
@@ -99,13 +97,11 @@ p {
 
 
 
-
-span:hover { 
-  background-color:#fda2a2;
+p:hover { 
+  
   transform-origin:center;
 
 }
-
 
 
 a {
@@ -114,7 +110,7 @@ a {
 }
 
  
-.first, .second, { 
+.first, .second, .third { 
   
   display:inline-block;
   transition: transform 0.3 ease;
