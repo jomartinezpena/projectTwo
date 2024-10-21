@@ -91,11 +91,15 @@ p {
     font-style: normal;
   
     color: cornsilk;
-  font-size: 400%;
+  font-size: 350%;
   
   text-shadow:3px 3px #fda2a2;
 
-  padding-top: 7%;
+  padding-top: 8%;
+}
+
+p:hover{ 
+  text-shadow: 4px 4px #fda2a2;
 }
 
 a {

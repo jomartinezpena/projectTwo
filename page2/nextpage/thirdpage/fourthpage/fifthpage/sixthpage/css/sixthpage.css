@@ -98,10 +98,20 @@ p {
   padding-top: 20%;
 }
 
+p:hover { 
+text-shadow: 4px 4px #fda2a2;
+}
+
+
 a {
   color:darkred;
   text-shadow:5px 5px antiquewhite;
 }
+
+a:hover { 
+  text-shadow: 0 0 5px #ff0000;
+}
+
 
 .first, .second, .third { 
   display:inline-block;
