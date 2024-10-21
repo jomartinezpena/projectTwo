@@ -22,17 +22,24 @@ body {
   
   }
 
+
   .snow_wrap { 
     height: 100vh;
     width: 100%;
-    position: absolute;
+    position: fixed;
     overflow: hidden;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    z-index: 1;
+  
   }
+
 
   .snow,.snow:after,.snow:before {
     content: "";
     position: absolute;
-    top:-650px;
+    top:-2000px;
     left:0;
     right:0;
     bottom:0;
@@ -50,6 +57,7 @@ body {
 
     animation: snowAnim 3s linear;
     animation-iteration-count: infinite;
+ 
    }
 
    .snow:after { 
@@ -77,32 +85,33 @@ body {
    }
 
 
-p { 
+   p { 
   
-  text-align: center;
+    text-align: center;
+    
+      font-family: "Poiret One", sans-serif;
+      font-weight: 800;
+      font-style: normal;
+    
+      color: cornsilk;
+    font-size: 400%;
+    
+    text-shadow:3px 3px #fda2a2;
   
-    font-family: "Poiret One", sans-serif;
-    font-weight: 800;
-    font-style: normal;
-  
-    color: cornsilk;
-  font-size: 400%;
-  
-  text-shadow:3px 3px #fda2a2;
-
-  padding-top: 20%;
+    padding-top: 20%;
+    
+    position: relative;
+  }
   
 
-}
-
-
-
-p:hover { 
+  p:hover { 
+    text-shadow: 5px 5px #fda2a2;
+    transform: scale(1.1);
+    position: relative;
+    
+    z-index: 10;
+  }
   
-  transform-origin:center;
-
-}
-
 
 a {
   color: darkred;
