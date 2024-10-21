@@ -91,21 +91,28 @@ p {
     font-style: normal;
   
     color: cornsilk;
-  font-size: 400%;
+  font-size: 350%;
   
   text-shadow:3px 3px #fda2a2;
 
-  padding-top: 7%;
+  padding-top: 8%;
+
 }
+
+p:hover { 
+  text-shadow: 5px 5px #fda2a2;
+}
+
 
 a {
   color: burlywood;
-  text-shadow:5px 5px antiquewhite;
+  text-shadow:5px 5px antiquewhite; 
 }
 
 .first, .second, .third { 
   display:inline-block;
   transition: transform 0.3 ease;
+
 }
 
 .first:hover {
@@ -117,4 +124,5 @@ a {
 .third:hover {
   transform: translateY(-5px);
 }
+
 
