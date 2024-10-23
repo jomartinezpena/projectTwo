@@ -105,7 +105,14 @@ p:hover {
 a {
   color: white;
   text-shadow:5px 5px 10px goldenrod;
+  transition: opacity 0.5s ease;
 }
+
+a:hover{ 
+  opacity: 0;
+}
+
+
 
 
 .first, .second, .third { 

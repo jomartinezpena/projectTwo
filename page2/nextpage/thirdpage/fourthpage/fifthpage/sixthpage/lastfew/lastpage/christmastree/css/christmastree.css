@@ -108,5 +108,14 @@ p {
 }
 
 
+a { 
+  color:#623406;
+  display: inline-block;
+  transition-duration: 0.3s ease, color 0.3 ease;
+  padding-bottom: 2%;
+}
 
-
+a:hover { 
+  transform: scale(1.5);
+  color: #890606;
+}

@@ -78,7 +78,7 @@ body {
       transform: translateY(0);
     }
     to{
-      transform: translateY(650px)
+      transform: translateY(650px);
     }
    }
 
@@ -105,7 +105,32 @@ p:hover{
 a {
   color: gold;
   text-shadow:5px 5px 10px goldenrod;
+  display:inline-block;
+  transition: transform 0.3s ease;
 }
+
+a:hover { 
+  transform: skew(10deg) rotate(360deg) scale(1.5);
+  text-shadow: 5px 5px 10px white;
+  animation: rgbColorChange 3s infinite;
+}
+
+@keyframes rgbColorChange { 
+  0% { 
+    color: rgb(255,0,0);
+  }
+  33% { 
+    color: rgb(22, 157, 22);
+  }
+  66% { 
+    color: rgb(255, 255, 255);
+  }
+  100% { 
+    color: rgb(254, 241, 0);
+  }
+}
+
+
 
 .first, .second, .third { 
   display:inline-block;

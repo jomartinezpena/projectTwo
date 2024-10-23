@@ -22,9 +22,10 @@ I am using GitHub as the platform for hosting and managing my code. And all incl
 
 ## Acknowledgment
 - Christmas Song: 
-    - "It's Beginning To Look A Lot Like Christmas" by Michael Bublé 
+    - "It's Beginning To Look A Lot Like Christmas" by Meredith Willson
          - https://www.youtube.com/watch?v=QJ5DOWPGxwg&ab_channel=MichaelBubl%C3%A9 
-         - https://genius.com/Michael-buble-its-beginning-to-look-a-lot-like-christmas-lyrics 
+         - https://christmas-specials.fandom.com/wiki/It%27s_Beginning_to_Look_a_Lot_Like_Christmas_(song)
+         - https://genius.com/Bing-crosby-its-beginning-to-look-a-lot-like-christmas-lyrics
 
 - Adding the stripped text-shadow and stroke
     - https://stackoverflow.com/questions/63581559/adding-striped-text-shadow-and-stroke

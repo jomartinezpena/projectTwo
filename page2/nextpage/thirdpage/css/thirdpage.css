@@ -107,7 +107,17 @@ p:hover {
 a {
   color: burlywood;
   text-shadow:5px 5px antiquewhite; 
+  transition: transform 0.3s ease, line-height 0.3s ease;
+  transform-origin:bottom;
+  display: inline-block;
 }
+
+a:hover { 
+  transform: scaleY(1.5);
+  line-height: 1.2em;
+}
+
+
 
 .first, .second, .third { 
   display:inline-block;
@@ -122,7 +132,7 @@ a {
   transform: translateY(10px);
 }
 .third:hover {
-  transform: translateY(-5px);
+  transform: translateY(-10px)scale(1.1);
 }
 
 

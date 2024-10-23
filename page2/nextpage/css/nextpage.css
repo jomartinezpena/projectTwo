@@ -123,7 +123,7 @@ a:hover {
   transform: translateY(10px);
 }
 .third:hover {
-  transform: translateY(-5px);
+  transform: translateY(-10px)scale(1.1);
 }
 
 
