@@ -1,6 +1,6 @@
 # Project 2: What Does Community Mean To You?
 
-### October 14, 2024
+### October 23, 2024
 By: Johnathan Martinez Pena
 
 
@@ -27,6 +27,10 @@ I am using GitHub as the platform for hosting and managing my code. And all incl
          - https://christmas-specials.fandom.com/wiki/It%27s_Beginning_to_Look_a_Lot_Like_Christmas_(song)
          - https://genius.com/Bing-crosby-its-beginning-to-look-a-lot-like-christmas-lyrics
 
-- Adding the stripped text-shadow and stroke
+- Adding the stripped text-shadow and stroke (Candy Cane)
     - https://stackoverflow.com/questions/63581559/adding-striped-text-shadow-and-stroke
+
+- Snow Falling Animation Using CSS By: Invention Tricks (Snow Background)
+    - https://www.youtube.com/watch?v=IxG5cQCIVE8&ab_channel=InventionTricks
+
 
